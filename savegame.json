@@ -1,0 +1,16 @@
+{
+    "playerHealth": 100,
+    "items": [
+        {
+            "item": {
+                "instanceID": 25114
+            },
+            "quantity": 38
+        }
+    ],
+    "playerPosition": {
+        "x": -8.167773246765137,
+        "y": -2.754803419113159,
+        "z": 0.0
+    }
+}
